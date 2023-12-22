@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 
 const MONGO_URL = 'mongodb+srv://root:root@coasters.x4f4xqk.mongodb.net/mern-uno'
 
